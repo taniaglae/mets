@@ -1,3 +1,9 @@
+# Machine and Deep Learning Applied to PredictMetabolic Syndrome without a Blood TestGuadalupe O. 
+
+# Authors: Guadalupe O. Gutiérrez-Esparza, Tania A. Ramírez-delReal, Mireya Martínez García, Oscar Infante Vázquez, Maite Vallejo, José Hernández-Torruco 
+
 # MetS
 
-The purpose of this work is to identify the most relevant features to propose a risk predictor for the early detection of people with MetS (metabolic syndorme), through machine learning algorithms and deep learning.
+This work aims to identify the most relevant features to propose a risk predictor for the early detection of people with MetS (metabolic syndrome) through machine learning algorithms and deep learning.
+
+There are two files with example data for women and men; when the experiment proposes a complete dataset, a merge of both is needed.
