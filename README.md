@@ -1,8 +1,8 @@
 # Machine and Deep Learning Applied to PredictMetabolic Syndrome without a Blood TestGuadalupe O. 
 
-# Authors: Guadalupe O. Gutiérrez-Esparza, Tania A. Ramírez-delReal, Mireya Martínez García, Oscar Infante Vázquez, Maite Vallejo, José Hernández-Torruco 
+## Authors: Guadalupe O. Gutiérrez-Esparza, Tania A. Ramírez-delReal, Mireya Martínez García, Oscar Infante Vázquez, Maite Vallejo, José Hernández-Torruco 
 
-# MetS
+## MetS
 
 This work aims to identify the most relevant features to propose a risk predictor for the early detection of people with MetS (metabolic syndrome) through machine learning algorithms and deep learning.
 
