@@ -14,4 +14,6 @@ The code has three different selections for each experiment; with the features s
 
 The variable SM_ATPIII indicates the existence of metabolic syndrome, and it is the target value to predict.
 
-The code code_RF.R is set to obtain the best parameters and features and the code code_RF_evaluate_featuresR is used to evaluate the performance of models according with the best parameters and features previously obtained in code_RF.R. 
+The code code_RF.R is set to obtain the best parameters and features and the code code_RF_evaluate_featuresR is used to evaluate the performance of models according with the best parameters and features previously obtained in code_RF.R.
+
+The code_chi.squared_c4.5.R is set to train the proposed C4.5 model for each *.csv.and to get the best variables with chi.squared.
