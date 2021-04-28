@@ -1,4 +1,4 @@
-# Machine and Deep Learning Applied to PredictMetabolic Syndrome without a Blood Test
+# Machine and Deep Learning Applied to PredictMetabolic Syndrome without a Blood Screening
 
 ## Authors: Guadalupe O. Gutiérrez-Esparza, Tania A. Ramírez-delReal, Mireya Martínez García, Oscar Infante Vázquez, Maite Vallejo, José Hernández-Torruco 
 
