@@ -13,3 +13,5 @@ The code in METS_DL.ipynb is set to train the proposed deep learning model for e
 The code has three different selections for each experiment; with the features selected by Pearson Coefficient (features_PCC), Random Forest(features_RF), and importance in each category (features_category), it is crucial to passing this variable to experiment.  
 
 The variable SM_ATPIII indicates the existence of metabolic syndrome, and it is the target value to predict.
+
+The code code_RF.R is set to obtain the best parameters and features and the code code_RF_evaluate_featuresR is used to evaluate the performance of models according with the best parameters and features previously obtained in code_RF.R. 
